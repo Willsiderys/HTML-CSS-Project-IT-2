@@ -1,0 +1,94 @@
+body{
+    background-image: url(book.jpg);
+    
+}
+
+h1{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 45px;
+    margin-right:400px;
+    margin-left:400px
+}
+
+h2{
+    text-align: center;
+    font-family:'Yatra One', cursive;
+    margin-left:340px;
+    margin-right:340px;
+}
+p{
+    text-align: justify;
+    margin-left: 360px;
+    margin-right:360px;
+    font-family: 'Yatra One', cursive;
+    font-size:20px
+}
+
+h1:hover{
+    font-size:50px;
+    transition-duration: .3s;
+    color:darkgrey;
+    margin-left: 350px;
+    margin-right:350px;
+    
+}
+
+h2:hover{
+    margin-left: 360px;
+    margin-right:360px;
+    transition-duration:.3s;
+}
+
+p:hover{
+    font-size:20px;
+    transition-duration:1s;
+    margin-left: 345px;
+    margin-right:345px;
+}
+
+    
+}
+img:hover{
+    border:dotted;
+}
+
+span{
+    color:black;
+    font-family:'Indie Flower', cursive;
+
+}
+
+span:hover{
+    color:gold;
+    font-size:50px;
+    transition-duration: .4s;
+}
+
+#specialdiv{
+padding-bottom: 50px;
+padding-top:50px;
+}
+
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin:50px;
+}
+
+div:hover{
+    border: inset;
+    border-top-color: bisque;
+}
+
+
+#book2{
+    margin-left: 500px;
+    margin-right:500px;
+}
+
+#spoopy{
+    margin-right: 500px;
+    margin-left:500px;
+}
+
