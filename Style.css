@@ -66,8 +66,8 @@ span:hover{
 }
 
 #specialdiv{
-padding-bottom: 50px;
-padding-top:50px;
+padding-bottom: 15px;
+padding-top:15px;
 }
 
 div{
@@ -77,8 +77,9 @@ div{
 }
 
 div:hover{
-    border: inset;
-    border-top-color: bisque;
+    padding-top:35px;
+    padding-bottom:35px;
+    margin:55px;
 }
 
 
@@ -91,4 +92,29 @@ div:hover{
     margin-right: 500px;
     margin-left:500px;
 }
+
+#beat{
+    margin-right:550px;
+    margin-left:550px;
+}
+
+#book2:hover{
+    width: 320px;
+    border: dashed;
+}
+
+#spoopy{
+    border:dashed;
+}
+
+#signup{
+    padding: 15px;
+}
+
+#singup:hover{
+    border: dashed;
+    transition-duration: .5s;
+}
+
+
 
